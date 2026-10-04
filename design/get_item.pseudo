@@ -9,22 +9,23 @@
 
 START get_item
 
-    # TODO 1: Identify the information the get-item process needs.
+   DEFINE rooms with items and what the items are 
     # Consider the current room, item in that room, and player's inventory.
 
-    # TODO 2: Prompt for and receive the player's get-item command.
+    PRINT that there is an item on the floor 
 
-    # TODO 3: Validate whether the requested item is available in the current
-    # room. Show the decision clearly.
+    INPUT if user wants to pickup item
 
-    # TODO 4: Describe what happens when the item request is valid.
-    # Include the inventory update and player output.
+    IF input == pickup "item"
+            PRINT item that is picked up and what is on it 
 
-    # TODO 5: Describe what happens when the item request is invalid.
-    # Include the output the player should receive.
+    IF input == item in another room
+           PRINT that the item they entered is in said room 
 
-    # TODO 6: Show how the process returns to or continues the larger gameplay
-    # loop after the command is handled.
+   ELSE
+          PRINt that they left the item on the floor 
+
+   RETURN back to get another decision if there is an item
 
 END get_item
 
