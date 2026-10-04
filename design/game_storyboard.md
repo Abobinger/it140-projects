@@ -1,31 +1,29 @@
 # Project One Storyboard | Text-Based Adventure Game
 
-> Complete the `TODO:` prompts using your own game idea. This file is a graded
-> Project One deliverable and later becomes a reference for Project Two.
+You are hosting a Murder Mystery Party but suddenly realize that one of the guests is murdering other guests. You need to figure out who the murderer is before the end of the night. By going to each of the rooms, you will be presented with different clues to lead you closer to solving who the murderer is. The office will have a torn fabric to start you out on piecing the clues together. You will find a bloody steak knife in the kitchen, a wine cellar will have a gun to protect yourself, library will have a note to guests, and whiskey at the bar. 
 
 ## Theme and Storyline
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
-
+Solve a murder mystery and find a murderer.
 **Storyline:**
+You are hosting a Murder Mystery Party but suddenly realize that one of the guests is murdering other guests. You need to figure out who the murderer is before the end of the night. By going to each of the rooms, you will be presented with different clues to lead you closer to solving who the murderer is. The office will have a torn fabric to start you out on piecing the clues together. You will find a bloody steak knife in the kitchen, a wine cellar will have a gun to protect yourself, library will have a note to guests, and whiskey at the bar.
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+
 
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+1. TODO: Entrance way
+2. TODO: Kitchen
+3. TODO: Wine Cellar
+4. TODO: Office
+5. TODO: Bar
+6. TODO: Dining room
+7. TODO: Library 
+8. TODO: Bedroom
 
 Add more rooms if your design needs them.
 
@@ -34,19 +32,19 @@ Add more rooms if your design needs them.
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. TODO: Bloody Steak Knife
+2. TODO: A Gun
+3. TODO: Torn Fabric
+4. TODO: Whiskey
+5. TODO: Bloody Steak knife
+6. TODO: A note to guest
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+TODO: The villain is a women. She was a friend of the hosts of the party but she never liked the wife because she was jealous of her luxurious life so take revenge she started murdering the guests including the hosts.
 
 ## Storyboard and Map Check
 
